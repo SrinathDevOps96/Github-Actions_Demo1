@@ -21,6 +21,7 @@ jobs:
           args:
             -Dsonar.projectKey=SrinathDevOps96_Github-Actions_Demo1
             -Dsonar.organization=srinathdevops96
+            -Dsonar.qualitygate.wait=true
             
   build_test:
 
