@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>gitopscalculator</artifactId>
+	<artifactId>Github-Actions_Demo1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>gitopscalculator Maven Webapp</name>
+	<name>Github-Actions_Demo1</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -41,7 +41,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gitopscalculator</finalName>
+		<finalName>Github-Actions_Demo1</finalName>
 
 		<plugins>
 
@@ -123,8 +123,8 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>GitHub NidaAP Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/nidaap/gitopscalculator</url>
+			<name>Github-Actions_Demo1</name>
+			<url>https://maven.pkg.github.com/SrinathDevOps96/Github-Actions_Demo1</url>
 		</repository>
 	</distributionManagement>
 </project>
