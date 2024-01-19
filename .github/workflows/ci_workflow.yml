@@ -8,7 +8,7 @@ permissions:
   pull-requests: read
 
 jobs:
-Static Analysis:
+  StaticAnalysis:
     runs-on: ubuntu-latest
 
     steps:
