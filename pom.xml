@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>gitopscalculator Maven Webapp</name>
+	<name>Github-Actions_Demo1 Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -19,8 +19,8 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>NidaAP_gitopscalculator</sonar.projectKey>
-		<sonar.organization>nidaap</sonar.organization>
+		<sonar.projectKey>SrinathDevOps96_Github-Actions_Demo1</sonar.projectKey>
+		<sonar.organization>srinathdevops96</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
